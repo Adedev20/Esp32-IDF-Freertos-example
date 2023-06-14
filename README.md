@@ -1,0 +1,2 @@
+### Esp32-IDF-Freertos-example
+This project is an attempt at using ESP32 IDF FREERTOS to blink two leds at different intervals and to also repeatedly print HELLO WORLD to the serial monitor. In perspective, the ESP32 performed 3 tasks concurrently which is the capability that only RTOSes provide. Runinng 3 tasks at once would have otherwise been impossible without an RTOS. Be on the look out as i plan on updating this very soon. Cheers! 
